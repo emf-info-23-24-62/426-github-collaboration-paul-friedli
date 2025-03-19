@@ -93,7 +93,7 @@ Trois éléments vous sont donnés:
 5.
 6.
 7.
-8.
+8. Salut
 9.
 10.
 
