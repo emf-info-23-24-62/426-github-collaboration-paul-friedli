@@ -88,7 +88,7 @@ Trois éléments vous sont donnés:
 ## Lignes à modifier selon explications du scénario (ajouter un texte de votre choix)
 
 1.
-2.
+2. version de Paul
 3.
 4.
 5.
@@ -106,7 +106,7 @@ Dans ce cas de figure, github ne sera pas capable de resynchroniser vos modifica
 
 Voici les étapes à suivre:
 
-### 1. Avant de commencer, assurez-vous d'avoir tirer (pull) les dernières modifications sur ce repository.
+### 1. Avant de commencer, assurez-vous d'avoir tirer (pull) les dernières modifications sur ce repository
 
 - Lorsque chacun à effectué un pull, répartissez-vous les lignes ci-dessus à compléter.
 
