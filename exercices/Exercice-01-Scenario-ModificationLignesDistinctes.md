@@ -44,6 +44,7 @@ sequenceDiagram
     John->>+repository: commit / push
     repository-->>-John: OK
 ```
+
 ## Déroulement de l'exercice
 
 Cet exercice s'effectue à 2 ou 3 personnes. Par conséquent vous formez les groupes et ensuite vous clonez le même repository distant.
@@ -86,16 +87,16 @@ Trois éléments vous sont donnés:
 
 ## Lignes à modifier selon explications du scénario (ajouter un texte de votre choix)
 
-1.
-2.
-3.
+1. modification Axelle 
+2. ☺ Test Valentin
+3. xxxxxxxxxxx
 4.
-5.
+5. Cool ça fonctionne ! ccccccccc
 6.
 7.
-8.
+8. Salut
 9.
-10.
+10. Bonjour
 
 ## Description détaillée et solution de l'exercice
 
