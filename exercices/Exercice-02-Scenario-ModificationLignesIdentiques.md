@@ -87,12 +87,12 @@ Trois éléments vous sont donnés:
 
 ## Lignes à modifier selon explications du scénario (ajouter un texte de votre choix)
 
-1.
+1. modification 
 2. version de Paul
 3.
 4.
-5.
-6.
+5. coucou 
+6. bonjour 
 7.
 8.
 9.
