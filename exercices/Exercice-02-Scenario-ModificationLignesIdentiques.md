@@ -87,16 +87,21 @@ Trois éléments vous sont donnés:
 
 ## Lignes à modifier selon explications du scénario (ajouter un texte de votre choix)
 
-1.
+1.AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 2. version de Paul
 3.
 4.
-5.
+5.BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+qui
+utilise
+plus
+de lignes
+qu'avant.....
 6.
 7.
 8.
 9.
-10.
+10.CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
 
 ## Description détaillée et solution de l'exercice
 
