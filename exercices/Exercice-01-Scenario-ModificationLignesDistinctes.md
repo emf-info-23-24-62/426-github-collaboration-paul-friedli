@@ -95,7 +95,7 @@ Trois éléments vous sont donnés:
 7.
 8. Salut
 9.
-10.
+10. Bonjour
 
 ## Description détaillée et solution de l'exercice
 
