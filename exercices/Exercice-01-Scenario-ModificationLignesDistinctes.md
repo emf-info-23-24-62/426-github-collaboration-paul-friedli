@@ -88,13 +88,13 @@ Trois éléments vous sont donnés:
 ## Lignes à modifier selon explications du scénario (ajouter un texte de votre choix)
 
 1.
-2.
+2. ☺ 
 3.
 4.
 5. Cool ça fonctionne !
 6.
 7.
-8.
+8. Salut
 9.
 10.
 
