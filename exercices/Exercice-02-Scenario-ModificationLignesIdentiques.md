@@ -1,5 +1,5 @@
 # Exercice 02 : Scénario de modification de lignes identiques
-salut
+
 Veuillez prendre connaissance du contexte de l'exercice avant de passer à sa réalisation.
 
 TIPS: veuillez noter que github, lors d'une mise en commun de modification de plusieurs utilisateur, effectue une comparaison ligne par ligne. Dans ce scénario, les lignes modifiées sont **identiques**. Découvrer comment github gère cette situation!
@@ -88,7 +88,7 @@ Trois éléments vous sont donnés:
 ## Lignes à modifier selon explications du scénario (ajouter un texte de votre choix)
 
 1.
-2.
+2.f fdfd
 3.
 4.
 5.
