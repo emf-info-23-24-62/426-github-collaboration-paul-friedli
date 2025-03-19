@@ -1,5 +1,10 @@
 import services.ServiceAnimaux;
 
+/**
+ * 
+ * Ceci est la Javadoc de la classe....
+ * 
+ */
 public class App {
     public static final int NBR_ANIMAUX = 2;
 
