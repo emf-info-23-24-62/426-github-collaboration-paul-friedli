@@ -4,6 +4,10 @@ public class App {
     public static final int NBR_ANIMAUX = 2;
 
     public static void main(String[] args){
+
+        public static void ditBonjour() {
+            System.out.println("Bonjour");
+        }
  
         ServiceAnimaux serviceAnimaux = new ServiceAnimaux();
 
