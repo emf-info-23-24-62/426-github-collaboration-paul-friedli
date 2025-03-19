@@ -87,11 +87,11 @@ Trois éléments vous sont donnés:
 
 ## Lignes à modifier selon explications du scénario (ajouter un texte de votre choix)
 
-1.AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+1.modification
 2. version de Paul
 3.
 4.
-5.BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+5..BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
 qui
 utilise
 plus
