@@ -88,7 +88,7 @@ Trois éléments vous sont donnés:
 ## Lignes à modifier selon explications du scénario (ajouter un texte de votre choix)
 
 1.
-2. ☺
+2. ☺ Test Valentin
 3. xxxxxxxxxxx
 4.
 5. Cool ça fonctionne ! ccccccccc
